@@ -1,37 +1,8 @@
-
 body {
   font-family: "Open Sans", helvetica, arial, sans-serif;
   margin: 3vw;
 }
 
 h1 {
-  color: DodgerBlue;
-}
-
-h2 {
-  color: DimGray;
-}
-
-#headshot {
-  height:31vh;
-  width:auto;
-  margin: 3vh 0 ;
-}
-
-.main{
-  display:flex;
-  justify-content:space-around;
-  height:70vh;
-}
-
-.left, .right{
-  width:46vw;
-}
-
-a, a:visited {
-    color: DodgerBlue;
-}
-
-footer {
-  display:block;
+  color: #4E92DF;
 }
